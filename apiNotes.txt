@@ -1,0 +1,13 @@
+- [ ] API - (Endpoints, Paths, Parameters, Authentication)
+    - [ ] Architecture Styles for Designing APIs
+        - [ ] GraphQL
+        - [ ] REST (Gold Standard) - Roy Fielding - UCI
+            * Use HTTP Request Verbs (
+                  Get
+                  Post
+                  Put
+                  Patch
+                  Delete
+            * Use specific pattern of routes/end points URLs
+        - [ ] SOAP
+        - [ ] Falcor
